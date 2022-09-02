@@ -1,4 +1,1 @@
-Alfa Rajolo
-Bravo xxxxx
-Charlie xxxxx
-Delta xxxxx
+Este es un archivo de prueba
