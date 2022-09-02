@@ -1,0 +1,11 @@
+- [x] Alfa
+- [ ] Bravo 
+- [ ] Charlie
+- [ ] Delta
+- [ ] Echo
+
+- [x] Feature
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
